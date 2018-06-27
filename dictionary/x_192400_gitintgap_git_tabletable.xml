@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Git Table" max_length="40" name="x_192400_gitintgap_git_tabletable" type="collection">
+        <element default="Git Integration" label="Git Name" max_length="200" name="git_name" type="field_name"/>
+    </element>
+</database>
